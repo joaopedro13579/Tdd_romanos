@@ -1,0 +1,6 @@
+﻿O código produz o numero inteiro então usa o numero recebido para recriar o numero romano
+Então ele compara o numero produzido com o numero recebido e se nao bater ele retorna um numero invalido
+Se não ele retorna o numero
+foi debugado por valgrind
+compilado por g++
+foram usados cpp check cpplint
